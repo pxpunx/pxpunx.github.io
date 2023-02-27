@@ -2,6 +2,26 @@
 layout: default
 title: docs
 has_children: true
+last_modified_date: true
 ---
 
-# docs/index.md
+# H1
+
+Lorem ipsum.
+
+## H2
+
+Lorem ipsum.
+
+### H3
+
+Lorem ipsum.
+
+{: .info }
+Lorem ipsum.
+
+{: .warn }
+Lorem ipsum.
+
+{: .note }
+Lorem ipsum.

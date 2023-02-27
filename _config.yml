@@ -1,3 +1,36 @@
-title: skpio title
-description: skpio description
+# configuration: https://jekyllrb.com/docs/configuration/options/
+# defaults: https://jekyllrb.com/docs/configuration/default/
+
+title: "pxpunx's Docs"
+description: "A collection of documentation and notes from various projects."
+url: https://pxpunx.github.io
+baseurl: /docs
 remote_theme: just-the-docs/just-the-docs
+enable_copy_code_button: true
+heading_anchors: true
+
+nav_external_links:
+  - title: "Raspberry Pi Foundation"
+    url: https://www.raspberrypi.org/
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# footer_content: ""
+
+last_edit_timestamp: true
+last_edit_time_format: "%F %T"
+
+color_scheme: dark
+
+callouts_level: quiet
+callouts:
+  info:
+    title: Information
+    color: blue
+  warn:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: yellow
