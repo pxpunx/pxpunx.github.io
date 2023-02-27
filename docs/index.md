@@ -1,9 +1,16 @@
 ---
 layout: default
 title: docs
+has_toc: false
 has_children: true
-last_modified_date: true
+#last_modified_date: true
 ---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 # H1
 
