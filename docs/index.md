@@ -16,12 +16,3 @@ Lorem ipsum.
 ### H3
 
 Lorem ipsum.
-
-{: .info }
-Lorem ipsum.
-
-{: .warn }
-Lorem ipsum.
-
-{: .note }
-Lorem ipsum.

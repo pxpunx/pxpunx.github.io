@@ -3,8 +3,8 @@
 
 title: "pxpunx's Docs"
 description: "A collection of documentation and notes from various projects."
-url: https://pxpunx.github.io
-baseurl: /docs
+url: "https://pxpunx.github.io"
+baseurl: "/docs"
 remote_theme: just-the-docs/just-the-docs
 enable_copy_code_button: true
 heading_anchors: true
