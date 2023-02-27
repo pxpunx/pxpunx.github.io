@@ -5,6 +5,11 @@ has_children: true
 last_modified_date: true
 ---
 
+**Table of Contents**
+
+1. TOC
+{:toc}
+
 # H1
 
 Lorem ipsum.
